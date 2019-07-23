@@ -1,4 +1,4 @@
-# Catalinita te ayuda a probar la capacidad de hablar de tu TJBot
+# Catalinita te ayuda a probar la capacidad de hablar de TJBot
 
 ![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
 <br>
