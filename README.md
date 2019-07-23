@@ -1,10 +1,9 @@
-# Catalinita
+# Catalinita te ayuda a probar la capacidad de hablar de tu TJBot
 Te presento a Catalinita: una niña muy lista y muy guapa a la que le encanta jugar y ayudar.
 
 ![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
 <br>
 
-## Catalinita te ayuda a probar la capacidad de hablar de tu TJBot
 Si dudas de la capacidad de hablar de tu TJBot, Catalinita te saca de dudas. Ella verbalizará el texto que tú quieras.
 
 Para poner en marcha el programa _Catalinita\_hablame.js_ sólo tienes que hacer cinco cosas:
