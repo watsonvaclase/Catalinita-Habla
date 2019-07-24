@@ -1,4 +1,4 @@
-# Catalinita te ayuda a probar la capacidad de hablar de TJBot
+## Catalinita te ayuda a probar la capacidad de hablar de TJBot
 
 <img id="img1" src="Catalinita/Catalinita.png" width="300" height="404"> <br> <br>
 
