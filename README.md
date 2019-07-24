@@ -17,10 +17,10 @@ npm install</div>
 <div id="texto6">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js </div>
 
 <div id="texto7">5) Ejecutar:</div> <br>
-<div id="texto10">sudo node Catalinita\_hablame.js "xxx"</div><br>
+<div id="texto10">sudo node Catalinita\_hablame.js "xxx"</div><
 <div id="texto11">siendo _xxx_ el texto que quieras que Catalinita verbalice. </div><br>
 
-<div id="texto8">(Si no oyes nada, pero no te sale ningún error por pantalla, prueba a conectar un altavoz con mini-jack usando un adaptador para el puerto usb.</div> <br>
+<div id="texto8">Si no oyes nada, pero no te sale ningún error por pantalla, prueba a conectar un altavoz con mini-jack usando un adaptador para el puerto usb.</div> <br>
 
-<div id="texto9">Si el altavoz distorsiona, prueba la misma solución.)</div><br>
+<div id="texto9">Si el altavoz distorsiona, prueba la misma solución.</div><br>
 
