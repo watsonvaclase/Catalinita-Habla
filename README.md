@@ -1,6 +1,6 @@
 # Catalinita te ayuda a probar la capacidad de hablar de TJBot
 
-!<img id="img1" src="Catalinita/Catalinita.png" width=8" height=10.77"> <br> <br>
+!<img id="img1" src="Catalinita/Catalinita.png" width="8" height="10.77"> <br> <br>
 
 
 <div id="texto1">Si dudas de la capacidad de hablar de tu TJBot, Catalinita te saca de dudas. Ella verbalizará el texto que tú quieras.</div>
