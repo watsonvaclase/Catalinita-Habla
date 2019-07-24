@@ -1,6 +1,6 @@
 # Catalinita te ayuda a probar la capacidad de hablar de TJBot
 
-!<img id="img1" src="Catalinita/Catalinita.png"> <br> <br>
+!<img id="img1" src="Catalinita/Catalinita.png" width=8" height=10.77"> <br> <br>
 
 
 <div id="texto1">Si dudas de la capacidad de hablar de tu TJBot, Catalinita te saca de dudas. Ella verbalizará el texto que tú quieras.</div>
@@ -17,7 +17,7 @@ npm install</div>
 <div id="texto6">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js </div>
 
 <div id="texto7">5) Ejecutar:</div> <br>
-<div id="texto10">sudo node Catalinita\_hablame.js "xxx"</div><
+<div id="texto10">sudo node Catalinita\_hablame.js "xxx"</div>
 <div id="texto11">siendo _xxx_ el texto que quieras que Catalinita verbalice. </div><br>
 
 <div id="texto8">Si no oyes nada, pero no te sale ningún error por pantalla, prueba a conectar un altavoz con mini-jack usando un adaptador para el puerto usb.</div> <br>
