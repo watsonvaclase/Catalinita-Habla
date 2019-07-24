@@ -14,7 +14,7 @@
 <div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules. En caso negativo, ejecutar: <br>
 npm install</div><br>
 
-<div id="texto6">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js </div>
+<div id="texto6">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js </div><br>
 
 <div id="texto7">5) Ejecutar:</div> <br>
 <div id="texto10">sudo node Catalinita\_hablame.js "xxx"</div>
