@@ -11,8 +11,8 @@
  
 <div id="texto4">2) Ubicar los dos ficheros descargados (Noise.wav y Catalinita\_hablame.js) en el directorio donde esté el programa conversation.js del TJBot.</div>
 
-<div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules.<br> En caso negativo, ejecutar: 
-> npm install</div><br>
+<div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules.<br> En caso negativo, ejecutar:</div> 
+> npm install<br>
 
 <div id="texto6">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js </div>
 
