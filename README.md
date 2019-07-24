@@ -11,12 +11,12 @@
  
 <div id="texto4">2) Ubicar los dos ficheros descargados (Noise.wav y Catalinita\_hablame.js) en el directorio donde esté el programa conversation.js del TJBot.</div>
 
-<div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules. En caso negativo, ejecutar: 
+<div id="texto5">3) Asegurar que en ese directorio haya un subdirectorio llamado node\_modules. En caso negativo, ejecutar: <br>
 npm install</div><br>
 
 <div id="texto6">4) Asegurar que en el mismo directorio exista y esté bien completado el fichero de credenciales config.js </div>
 
-<div id="texto7">5) Ejecutar:</div>
+<div id="texto7">5) Ejecutar:</div><br>
 <div id="texto10">sudo node Catalinita\_hablame.js "xxx"</div>
 <div id="texto11">siendo _xxx_ el texto que quieras que Catalinita verbalice. </div><br>
 
