@@ -7,7 +7,7 @@
 <br>
 <div id="texto2">Para poner en marcha el programa Catalinita\hablame.js sólo tienes que hacer cinco cosas:</div>
 <br>  
-<div id="texto3">1) Descargar el audio <a href="https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Noise.wav"> Noise.wav </a>y el programa <a href="https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_hablame.js"> Catalinita_hablame.js</a> a la raspberrypi.</div>
+<div id="texto3">1) Descargar el audio <a href="https://github.com/watsonvaclase/Catalinita/blob/master/Catalinita/Noise.wav"> Noise.wav </a>y el programa <a href="https://github.com/watsonvaclase/Catalinita/blob/master/Catalinita/Catalinita_hablame.js"> Catalinita_hablame.js</a> a la raspberrypi.</div>
  
 <div id="texto4">2) Ubicar los dos ficheros descargados (Noise.wav y Catalinita\_hablame.js) en el directorio donde esté el programa conversation.js del TJBot.</div>
 
